@@ -1,0 +1,8 @@
+size: 20
+open_duration: 120
+weekly_openings:
+  - "Wednesday 10:00"
+  - "Thursday 19:00"
+  - "Sunday 01:15"
+specific_openings:
+  - "10.15.2023 01:22"

@@ -1,0 +1,19 @@
+name: BarriersWorld
+version: '${project.version}'
+main: usf.barriersland.barriersworld.BarriersWorld
+api-version: '1.20'
+load: STARTUP
+authors: [JoilyFox]
+commands:
+  nextopen:
+    description: Displays the next barrier opening time.
+    usage: /<command>
+  nextclose:
+    description: Displays the next barrier closing time.
+    usage: /<command>
+  setsize:
+    description: Sets the size of the barrier.
+    usage: /<command> <size>
+  setopenduration:
+    description: Sets the open duration of the barrier.
+    usage: /<command> <duration>
